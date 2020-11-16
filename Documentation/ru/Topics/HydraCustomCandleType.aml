@@ -7,7 +7,7 @@
   						<mediaLink>
         <image placement="center" xlink:href="hydra_type_candle_00_00" />
       </mediaLink>      
-      <para>Раасмотрим пример такого построения. Биржа <legacyBold>Bitmex</legacyBold> не дает возможности получить свечи с Тайм Фреймом 10 мин.</para>
+      <para>Расcмотрим пример такого построения. Биржа <legacyBold>Bitmex</legacyBold> не дает возможности получить свечи с Тайм Фреймом 10 мин.</para>
    						
   						<mediaLink>
         <image placement="center" xlink:href="hydra_type_candle_00_01" />

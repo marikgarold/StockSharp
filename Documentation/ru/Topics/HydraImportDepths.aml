@@ -69,13 +69,8 @@
 	<image placement="center" xlink:href="hydra_import_preview_depth" />
 	</mediaLink>
        </content>
-       </step>
-          
-                <step>
-          <content>
-          	<para>Для преварительного просмотра данных, нажать кнопку <legacyBold>Предпросмотр</legacyBold>.</para>
-          </content>
-        </step>
+       </step>          
+           
         <step>
           <content>
           	<para>Нажать кнопку <legacyBold>Импорт</legacyBold>.</para>
